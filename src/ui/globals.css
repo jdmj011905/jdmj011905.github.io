@@ -1,0 +1,194 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+
+    font-family:monospace;
+    background-color: #D7D7D7;
+    color: #33374C;
+
+
+}
+
+.dark{
+    background-color:  #f1e5da;
+    color: #023e3b;
+
+}
+
+
+
+#jason{
+    
+    font-size: 36px;
+    margin-top: 0px;
+
+    padding-top: 30px;
+}
+
+.credentials, #jason{
+
+    font-family: "Montserrat";
+
+    color:#FFFFFF;
+
+    text-align: center;
+    
+}
+
+.credentials{
+
+    margin-bottom: 30px;
+    font-weight: 300;
+}
+
+#jason{
+
+    font-weight:400;
+}
+
+.introduction{
+
+
+    border: 1px solid #595E76;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+    max-width: 70vw;
+    margin: auto;
+    margin-bottom:30px;
+
+   
+}
+
+
+
+.header{
+    margin-top: 0px;
+    color:#000000;
+}
+
+.dark .header{
+    color: #FF7A5C;
+}
+
+
+.socials{
+
+
+    max-width: 80vw;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 15px;
+    justify-content: center;
+    align-content: center;
+
+    margin: auto;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.socials a {
+
+    display: inline;
+    color:#FF7A5C;
+    margin: auto;
+
+    font-size: 16px;
+    font-weight: bold;
+
+    text-decoration: none;
+
+}
+
+.clipArt{
+
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.caption{
+
+    display: inline-block;
+    color: #C6C8D1;
+
+}
+
+.caption:hover{
+
+    color: #595E76;
+}
+
+.prose{
+    padding-bottom:20px;
+
+    line-height: 40px;
+
+}
+
+.skillList{
+
+    max-width: 65vw;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px 45px ;
+
+    margin: auto;
+
+    padding-top: 30px;
+
+    
+
+
+
+
+}
+
+.skillList li{
+
+    font-size: 16px;
+    line-height: 40px;
+}
+
+
+.summary{
+    
+    max-width: 65vw;
+    margin: auto;
+
+    font-size: 16px;
+}
+
+.dark .emphasized {
+
+
+    
+    color:#C6C8D1;
+}
+
+.emphasized{
+
+    color:#000000;
+}
+
+
+.spacer{
+
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.credits{
+
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+    text-align: center;
+}
