@@ -1,5 +1,5 @@
 
-export default function table(){
+export default function FightsTable(){
 
 
 
