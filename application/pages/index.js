@@ -1,7 +1,11 @@
 
+import FightsTable from "../components/fightsTable";
+
 export default function Home() {
   return (
 
-    <div>Test</div>
+    <div>
+      <FightsTable></FightsTable>
+    </div>
   );
 }
