@@ -6,7 +6,7 @@ export default function Home() {
 
     <div>
       <FightsTable></FightsTable>
-      <div>Teofimo Lopez vs Shakur Stevenson</div>
+      <h3>Teofimo Lopez vs Shakur Stevenson</h3>
     </div>
   );
 }
